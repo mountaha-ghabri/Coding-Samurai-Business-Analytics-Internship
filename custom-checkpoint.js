@@ -1,1 +1,0 @@
-Jupyter.notebook.insert_css(".container { background-color: #ADD8E6; }");
